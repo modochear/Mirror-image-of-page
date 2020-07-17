@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         镜像网站
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/modochear/Mirror-image-of-page/blob/master/Mirror-image-of-page.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       modochear
