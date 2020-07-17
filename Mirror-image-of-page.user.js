@@ -1,9 +1,14 @@
 // ==UserScript==
 // @name         镜像网站
+// @name:en         Mirror-image-of-page
+// @name:zh         镜像网站
+// @name:zh-CN      镜像网站
 // @namespace    https://github.com/modochear/Mirror-image-of-page/
 // @supportURL       https://github.com/modochear/Mirror-image-of-page/
-// @version      0.1
+// @home-url        https://greasyfork.org/zh-CN/scripts/407242
+// @version      0.1.1
 // @description  try to take over the world!
+// @description:en  try to take over the world!
 // @author       modochear
 // @include      /.*/
 // @grant        none
