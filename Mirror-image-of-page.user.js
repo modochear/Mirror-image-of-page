@@ -6,7 +6,7 @@
 // @namespace    https://github.com/modochear/Mirror-image-of-page/
 // @supportURL       https://github.com/modochear/Mirror-image-of-page/
 // @home-url        https://greasyfork.org/zh-CN/scripts/407242
-// @version      0.1.1
+// @version      0.1.2
 // @description  try to take over the world!
 // @description:en  try to take over the world!
 // @author       modochear
@@ -15,7 +15,6 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
     var html = document.getElementsByTagName("html")[0];
     html.setAttribute("style", "-moz-transform:scaleX(-1);-webkit-transform:scaleX(-1);-o-transform:scaleX(-1);transform:scaleX(-1);/*IE*/filter:FlipH;")
 })();
