@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         镜像网站
-// @namespace    https://github.com/modochear/Mirror-image-of-page/blob/master/Mirror-image-of-page.js
+// @namespace    https://github.com/modochear/Mirror-image-of-page/
+// @supportURL       https://github.com/modochear/Mirror-image-of-page/
 // @version      0.1
 // @description  try to take over the world!
 // @author       modochear
